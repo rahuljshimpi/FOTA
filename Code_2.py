@@ -1,0 +1,1 @@
+print("FOTA DONE SUCCESSFULLY")
